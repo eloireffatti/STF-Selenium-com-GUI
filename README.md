@@ -48,7 +48,7 @@ Este repositório contém uma solução modular em Python para:
 ## Recomendações
 - Manter ChromeDriver compatível com a versão do Chrome.
 - Executar grandes lotes em horários de menor carga para reduzir bloqueios.
-- Externalizar chave da API em configuração local/variável de ambiente em ambientes compartilhados
+- Executar um módulo de cada vez. 
 
 ## Passo a passo
 
