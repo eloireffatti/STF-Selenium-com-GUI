@@ -1,6 +1,8 @@
 # STF-Selenium-com-GUI
 
+# Distribuição autexecutável disponível em
 
+https://1drv.ms/f/c/c5e1823c8be8ded8/IgAFmfj4k0vjTpW2L50NovqfATsMVWgdiKfQcZpB2T951SI?e=4EOny0
 
 ## Visão geral
 Este repositório contém uma solução modular em Python para:
