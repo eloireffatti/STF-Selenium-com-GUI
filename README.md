@@ -55,27 +55,26 @@ Este repositório contém uma solução modular em Python para:
 
 # Abra a GUI → Aba “Extração STF”:
 
-selecione classe,
-escolha intervalo ou lista,
-defina pasta de dados e pasta de logs,
-iniciar.
+1. selecione classe,
+2. escolha intervalo ou lista,
+3. defina pasta de dados e pasta de logs,
+4. iniciar.
 
 
 
 # Aba “Consulta DataJud”:
 
-indique pasta de dados do extrator,
-
-indique pasta de saída da API,
-informe/valide chave,
-iniciar.
+1. indique pasta de dados do extrator, 
+2. indique pasta de saída da API, 
+3. informe/valide chave, 
+4. iniciar.
 
 
 
 # Aba “Consolidar Dados”:
 
-indique pasta do extrator,
-indique pasta da API,
-indique pasta de saída,
-defina nomes dos arquivos,
-iniciar.
+1. indique pasta do extrator, 
+2. indique pasta da API, 
+3. indique pasta de saída, 
+4. defina nomes dos arquivos, 
+5 iniciar.
